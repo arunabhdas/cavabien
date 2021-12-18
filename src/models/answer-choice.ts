@@ -15,6 +15,7 @@ export interface Choice {
 export enum StackValue {
     DEFAULT = 'DEFAULT',
     README = 'README',
+    CHECKLIST = 'CHECKLIST',
     STACK1 = '1 - JAM',
     STACK2 = '2 - MEAN',
     STACK3 = '3 - RAILS',

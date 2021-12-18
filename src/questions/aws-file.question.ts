@@ -4,6 +4,7 @@ import {Answer, Choice, FrameworkChoiceValue, StackValue} from '../models/answer
 
 export async function githubFileQuestion(): Promise<Answer> {
     const listOfFiles: Choice[] = [
+        {name: 'Checklist', value: StackValue.CHECKLIST},
         {name: 'Android', value: FrameworkChoiceValue.FRAMEWORK_ANDROID_SDK},
         {name: 'Cocoa', value: FrameworkChoiceValue.FRAMEWORK_COCOA_TOUCH},
         {name: 'Flutter', value: FrameworkChoiceValue.FRAMEWORK_FLUTTER},
