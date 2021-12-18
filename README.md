@@ -16,7 +16,11 @@ npm i figlet inquirer fs-extra @types/fs-extra inversify kleur reflect-metadata 
 
 npm i @types/node @types/inquirer @types/figlet @liftr/tscov ts-node typedoc typescript --save-dev
 
+# Publishing steps
 
+npm login
+
+npm publish
 
 # Dependencies
 figlet — Get a nice ASCII art from a string
