@@ -1,7 +1,7 @@
 {
   "name": "cavabien",
   "version": "1.2.0",
-  "description": "CLI tool for automating all the things",
+  "description": "CLI tool for project management using todos, checklists, tasks and roadmaps",
   "main": "./lib/index.js",
   "bin": {
     "cavabien": "./bin/cavabien"

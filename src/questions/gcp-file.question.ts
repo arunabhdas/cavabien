@@ -11,7 +11,7 @@ export async function gitlabFileQuestion(): Promise<Answer> {
         {name: 'License', value: FrameworkChoiceValue.FRAMEWORK_ANDROID_SDK},
         {name: 'Changelog', value: FrameworkChoiceValue.FRAMEWORK_COCOA_TOUCH},
         {name: 'Contributing', value: FrameworkChoiceValue.FRAMEWORK_FLUTTER},
-        {name: 'Contributing', value: FrameworkChoiceValue.FRAMWORK_REACT_NATIVE}
+        {name: 'Contributing', value: FrameworkChoiceValue.FRAMWORK_REACT}
     ];
 
     return await inquirer.prompt([{

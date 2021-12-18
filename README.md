@@ -1,5 +1,11 @@
 # Cavabien 
-CLI tool for automating all the things
+CLI tool for generating roadmaps
+
+Inspired by 
+https://roadmap.sh
+
+
+
 
 
 # Development steps
