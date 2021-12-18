@@ -13,6 +13,7 @@ export enum FileName {
     LICENSE = 'LICENSE',
     README = 'README.md',
     TODO = 'TODO.md',
+    CHECKLIST = 'CHECKLIST.md',
     CHANGELOG = 'CHANGELOG.md',
     SECURITY = 'SECURITY.md',
     APPSPEC = 'appspec.yml',
