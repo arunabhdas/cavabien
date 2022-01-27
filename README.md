@@ -4,6 +4,8 @@ CLI tool for generating roadmaps
 Inspired by 
 https://roadmap.sh
 
+## Screenshots
+![]()
 
 ## Installation
 
