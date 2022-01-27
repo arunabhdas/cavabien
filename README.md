@@ -5,7 +5,7 @@ Inspired by
 https://roadmap.sh
 
 ## Screenshots
-![]()
+![](https://raw.githubusercontent.com/arunabhdas/cavabien/main/screenshots/screenshot_1.png)
 
 ## Installation
 
