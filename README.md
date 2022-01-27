@@ -11,6 +11,10 @@ https://roadmap.sh
 
 ==> npm install -g cavabien
 
+## NPMjs
+
+https://www.npmjs.com/package/cavabien
+
 ## Usage
 
 ==> cavabien
