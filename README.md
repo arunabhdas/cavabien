@@ -5,10 +5,15 @@ Inspired by
 https://roadmap.sh
 
 
+## Installation
 
+==> npm install -g cavabien
 
+## Usage
 
-# Development steps
+==> cavabien
+
+## Development steps
 
 npm init
 
@@ -16,13 +21,13 @@ npm i figlet inquirer fs-extra @types/fs-extra inversify kleur reflect-metadata 
 
 npm i @types/node @types/inquirer @types/figlet @liftr/tscov ts-node typedoc typescript --save-dev
 
-# Publishing steps
+## Publishing steps
 
 npm login
 
 npm publish
 
-# Dependencies
+## Dependencies
 figlet — Get a nice ASCII art from a string
 inquirer — A collection of common interactive command line user interfaces.
 fs-extra — fs-extra contains methods that aren’t included in the vanilla Node.js fs package. Such as mkdir -p, cp -r, and rm -rf.

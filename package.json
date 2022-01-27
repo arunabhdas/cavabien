@@ -1,6 +1,6 @@
 {
   "name": "cavabien",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "CLI tool for project management using todos, checklists, tasks and roadmaps",
   "main": "./lib/index.js",
   "bin": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arunabhdas/cyborg.git"
+    "url": "git+https://github.com/arunabhdas/cavabien.git"
   },
   "keywords": [
     "typescript",
@@ -30,9 +30,9 @@
   "author": "Arunabh Das",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arunabhdas/cyborg/issues"
+    "url": "https://github.com/arunabhdas/cavabien/issues"
   },
-  "homepage": "https://github.com/arunabhdas/cyborg#readme",
+  "homepage": "https://github.com/arunabhdas/cavabien#readme",
   "devDependencies": {
     "@liftr/tscov": "^2.0.0",
     "@types/figlet": "^1.5.4",
