@@ -15,6 +15,7 @@ export interface Choice {
 export enum StackValue {
     DEFAULT = 'DEFAULT',
     README = 'README',
+    CHECKLIST = 'CHECKLIST',
     STACK1 = '1 - JAM',
     STACK2 = '2 - MEAN',
     STACK3 = '3 - RAILS',
@@ -25,7 +26,8 @@ export enum FrameworkChoiceValue {
     FRAMEWORK_ANDROID_SDK = 'ANDROID_SDK',
     FRAMEWORK_COCOA_TOUCH = 'COCOA_TOUCH',
     FRAMEWORK_FLUTTER = 'FLUTTER',
-    FRAMWORK_REACT_NATIVE = 'REACT_NATIVE'
+    FRAMWORK_REACT = 'REACT_NATIVE',
+    FRAMWORK_ANGULAR = 'ANGULAR'
 }
 
 
